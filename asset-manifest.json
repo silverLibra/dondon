@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dondon/static/css/main.772b630f.css",
+    "main.js": "/dondon/static/js/main.3b6405de.js",
+    "static/js/787.19b9cf18.chunk.js": "/dondon/static/js/787.19b9cf18.chunk.js",
+    "index.html": "/dondon/index.html",
+    "main.772b630f.css.map": "/dondon/static/css/main.772b630f.css.map",
+    "main.3b6405de.js.map": "/dondon/static/js/main.3b6405de.js.map",
+    "787.19b9cf18.chunk.js.map": "/dondon/static/js/787.19b9cf18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.772b630f.css",
+    "static/js/main.3b6405de.js"
+  ]
+}
